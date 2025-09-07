@@ -309,7 +309,7 @@ const Index = () => {
                 <CardTitle>Телефон</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold">+7 (XXX) XXX-XX-XX</p>
+                <p className="text-lg font-semibold">+375 29 705-84-29</p>
                 <p className="text-sm text-muted-foreground">Круглосуточно</p>
               </CardContent>
             </Card>
@@ -381,7 +381,7 @@ const Index = () => {
               <div className="space-y-3 text-primary-foreground/80">
                 <div className="flex items-center gap-2">
                   <Icon name="Phone" size={16} />
-                  <span>+7 (XXX) XXX-XX-XX</span>
+                  <span>+375 29 705-84-29</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="MapPin" size={16} />
