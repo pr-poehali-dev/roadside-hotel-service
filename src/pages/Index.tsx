@@ -320,8 +320,8 @@ const Index = () => {
                 <CardTitle>Адрес</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold">Федеральная трасса М-XX</p>
-                <p className="text-sm text-muted-foreground">XXX км от города</p>
+                <p className="text-lg font-semibold">Яглевичи, Лесная 17</p>
+                <p className="text-sm text-muted-foreground">Минская область</p>
               </CardContent>
             </Card>
 
@@ -385,7 +385,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="MapPin" size={16} />
-                  <span>Федеральная трасса М-XX</span>
+                  <span>Яглевичи, Лесная 17</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="Clock" size={16} />
